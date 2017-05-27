@@ -1,0 +1,10 @@
+siteTitle = "Blog by Tyler DeVos"
+siteDescr = "Goal: Learn to cook one new thing a week and share them with my family and friends."
+siteAuthor = "Tyler DeVos"
+
+--siteTwitterUrl = "https://twitter.com/tytoons"
+siteInstagramUrl = "https://www.instagram.com/ocelotgames"
+
+googleAnalyticsId = ""
+
+linkPrefix = "/gatsby-starter-lumen"
