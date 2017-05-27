@@ -11,7 +11,7 @@ This is going to be my first attempt at a food blog.  I'm hoping to share at lea
 I'm not a writer nor English major so please bear with me.
 
 <figure class="center">
-    <img style="height: 310px;" src="../images/boyspizza.jpg" alt="Two boys and Dad and a pizza">
+    <img style="height: 310px;" src="./boyspizza.jpg" alt="Two boys and Dad and a pizza">
     <figcaption>Two boys and Dad and a pizza (place)</figcaption>
 </figure>
 

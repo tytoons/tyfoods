@@ -8,7 +8,7 @@ description: "Diane's Tortillas"
 ---
 
 <figure class="center">
-    <img style="height: 310px;" src="../images/tortillas1.jpg" alt="tortillas">
+    <img style="height: 310px;" src="./tortillas1.jpg" alt="tortillas">
     <figcaption>Diane making tortillas</figcaption>
 </figure>
 
